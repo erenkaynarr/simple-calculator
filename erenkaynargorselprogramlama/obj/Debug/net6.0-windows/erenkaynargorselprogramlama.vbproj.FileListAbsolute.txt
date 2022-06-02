@@ -1,0 +1,17 @@
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\bin\Debug\net6.0-windows\erenkaynargorselprogramlama.exe
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\bin\Debug\net6.0-windows\erenkaynargorselprogramlama.deps.json
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\bin\Debug\net6.0-windows\erenkaynargorselprogramlama.runtimeconfig.json
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\bin\Debug\net6.0-windows\erenkaynargorselprogramlama.dll
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\bin\Debug\net6.0-windows\ref\erenkaynargorselprogramlama.dll
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\bin\Debug\net6.0-windows\erenkaynargorselprogramlama.pdb
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\obj\Debug\net6.0-windows\erenkaynargorselprogramlama.vbproj.AssemblyReference.cache
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\obj\Debug\net6.0-windows\erenkaynargorselprogramlama.Form1.resources
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\obj\Debug\net6.0-windows\erenkaynargorselprogramlama.vbproj.GenerateResource.cache
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\obj\Debug\net6.0-windows\erenkaynargorselprogramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\obj\Debug\net6.0-windows\erenkaynargorselprogramlama.AssemblyInfoInputs.cache
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\obj\Debug\net6.0-windows\erenkaynargorselprogramlama.AssemblyInfo.vb
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\obj\Debug\net6.0-windows\erenkaynargorselprogramlama.vbproj.CoreCompileInputs.cache
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\obj\Debug\net6.0-windows\erenkaynargorselprogramlama.dll
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\obj\Debug\net6.0-windows\ref\erenkaynargorselprogramlama.dll
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\obj\Debug\net6.0-windows\erenkaynargorselprogramlama.pdb
+C:\Users\erenos01\source\repos\erenkaynargorselprogramlama\erenkaynargorselprogramlama\obj\Debug\net6.0-windows\erenkaynargorselprogramlama.genruntimeconfig.cache
